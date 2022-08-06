@@ -12,7 +12,7 @@ Users should be able to:
 
 Overall, I learned and mastered the following JavaScript skills by completing this project: <br>
 <br>
-1. Defining variables with const.
+1. Defining variables with const and let.
 2. Accessing and interacting with the DOM by using document object methods.
 3. Declaring functions and attaching them to DOM objects (event listeners).
 4. Writing nested for loops and using for loop variables.
