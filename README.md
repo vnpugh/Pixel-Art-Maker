@@ -1,4 +1,4 @@
-# Pixel Art Maker Project
+# Pixel Art Maker Project :art:
 
 This a single-page web app that allows users to draw pixel art on a canvas.
 The starter code (HTML and CSS) was provided to build the application. I wrote the JavaScript code which allows users to create a grid of squares and apply colors to those squares to create digital pixel art. <br>
